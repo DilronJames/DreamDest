@@ -1,0 +1,8 @@
+a{
+    color:paleturquoise;
+    text-decoration: none;
+}
+a:hover {
+    color:pink;
+    text-decoration:underline;
+}
