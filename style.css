@@ -1,11 +1,17 @@
 body {
     background-color: lightblue;
+    /*Background color*/
+    font-family: 'Times New Roman', serif;
+    /*assigns font to Times New Roman*/
   }
-a{
-    color:paleturquoise;
+  
+  a{
+    color:rgb(66, 196, 73);
     text-decoration: none;
+    /*link colored extra beggining*/
 }
 a:hover {
     color:pink;
     text-decoration:underline;
+    /*hover link color change*/
 }
